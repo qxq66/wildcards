@@ -1,0 +1,4 @@
+no humans, indoors, scenery, table, chair, chandelier, lamp, glass, ceiling light, painting (object), shelf, carpet, cabinet, rug, dining room
+no humans, indoors, scenery, sink, bathroom, window, bathtub, faucet, tiles, ceiling light, tile floor, marble floor, towel, shower, toilet, bottles, mirror, marble wall
+no humans, indoors, scenery, chair, ceiling light, couch, table,  lamp, book, pillow, rug, carpet, tile floor, tile wall, chandelier, wardrobe, shelf, books, living room, marble floor, painting (object)
+no humans, indoors, scenery, curtains, window, bed, pillow, floor, wardrobe, carpet, bedside, rug, bedroom, sunlight, wooden floor, lamp, blanket, ceiling light, painting (object)
